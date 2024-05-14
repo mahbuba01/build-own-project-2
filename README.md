@@ -218,10 +218,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
 - [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
 ## Julia:
--[Creating software packages with Julia](https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/)
--[Deep learning with Julia: Train a Model using a Neural Network](https://www.freecodecamp.org/news/deep-learning-with-julia/)
--[Your first web app with Julia and Genie.jl](https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia/)
--[Machine learning: How to Build and Deploy a Trained AI Model as a Web Service](https://www.freecodecamp.org/news/machine-learning-using-julia/)
+-[Creating software packages with Julia](https://jaantollander.com/post/how-to-create-software-packages-with-julia-language)
+-[Deep learning with Julia: Train a Model using a Neural Network](https://www.freecodecamp.org/news/deep-learning-with-julia)
+-[Your first web app with Julia and Genie.jl](https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia)
+-[Machine learning: How to Build and Deploy a Trained AI Model as a Web Service](https://www.freecodecamp.org/news/machine-learning-using-julia)
 ## HTML and CSS:
 
 - [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
