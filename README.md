@@ -216,6 +216,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a TicTacToe Game with JavaScript](https://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
 - [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
+- [Build a portfolio website with Javascript, HTML and CSS](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/)
 
 ## HTML and CSS:
 
@@ -622,6 +623,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
 - [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 - [Learn Associate Rule Mining in R](https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50)
+- [Make a Linear regression in R](https://www.scribbr.com/statistics/linear-regression-in-r/)
 
 ## Rust:
 
